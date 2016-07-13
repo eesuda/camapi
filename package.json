@@ -1,0 +1,16 @@
+{
+  "name": "camapi",
+  "version": "1.0.0",
+  "description": "camera APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wenfeng CAI",
+  "license": "MIT",
+  "dependencies": {
+    "hapi": "^13.5.0",
+    "joi": "^9.0.0",
+    "node-gpsd": "^0.2.5"
+  }
+}
